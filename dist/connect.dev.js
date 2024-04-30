@@ -54,9 +54,9 @@ app.get("/", function (request, response) {
   });
 }); // Start the server on port 3000
 
-app.listen(3000, function () {
+app.listen(5000, function () {
   console.log("Listening on port 3000...");
 
-  require('child_process').exec('start http://localhost:3000/');
+  require('child_process').exec('start http://localhost:5000/');
 });
 //# sourceMappingURL=connect.dev.js.map
