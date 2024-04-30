@@ -1,0 +1,28 @@
+// Create a new folder with the name users-api-server
+
+// CMD npm init -y
+
+// npm install json-server
+
+// create json file
+
+// Open package.json file and add the scripts section inside it:
+// "scripts": {
+//   "start": "json-server db.json"
+// }
+
+// npm start
+
+// create repository in git
+
+// git init .
+
+// git remote add origin http....
+
+// git add --all .
+// git commit -m "your_commit_message"
+// git push origin master
+
+
+
+// https://my-json-server.typicode.com/username_git/project_git
