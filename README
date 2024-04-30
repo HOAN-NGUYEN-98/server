@@ -4,7 +4,7 @@
 
 // npm install json-server
 
-// create json file
+// create db.json file
 
 // Open package.json file and add the scripts section inside it:
 // "scripts": {
