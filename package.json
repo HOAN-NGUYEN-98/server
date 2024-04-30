@@ -1,7 +1,7 @@
 {
   "name": "users-api-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "// Create a new folder with the name users-api-server",
   "main": "index.js",
   "scripts": {
     "start": "json-server db.json"
@@ -13,5 +13,6 @@
     "express": "^4.19.2",
     "json-server": "^1.0.0-alpha.23",
     "mssql": "^10.0.2"
-  }
+  },
+  "devDependencies": {}
 }
