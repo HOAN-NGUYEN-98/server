@@ -1,1 +1,22 @@
-[{"ID":1,"NAME":"Hoan Nguyen","AGE":26,"ADDRESS":"Ha Nam","PHONE":"0358979090"},{"ID":2,"NAME":"Duyen Hoang","AGE":26,"ADDRESS":"Ha Noi","PHONE":"0350350455"},{"ID":3,"NAME":"Nhim Cutes","AGE":1,"ADDRESS":"Ha Noi","PHONE":"0356023512"}]
+[
+    {   "ID":1,
+        "NAME":"Hoan Nguyen",
+        "AGE":26,
+        "ADDRESS":"Ha Nam",
+        "PHONE":"0358979090"
+    },
+
+    {   "ID":2,
+        "NAME":"Duyen Hoang",
+        "AGE":26,
+        "ADDRESS":"Ha Noi",
+        "PHONE":"0350350455"
+    },
+
+    {   "ID":3,
+        "NAME":"Nhim Cutes",
+        "AGE":1,
+        "ADDRESS":"Ha Noi",
+        "PHONE":"0356023512"
+    }
+]
